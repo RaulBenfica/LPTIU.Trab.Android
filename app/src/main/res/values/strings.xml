@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Controle Financeiro</string>
+    <string name="txtControleFinanceiro">Controle Financeiro</string>
+    <string name="imgtodo">TODO</string>
+    <string name="enunciado">Gostaria de calcular os juros:</string>
+    <string name="Simples">Simples</string>
+    <string name="composto">Composto</string>
+    <string name="Descontosimples">Descontosimples</string>
+    <string name="descontoSimples">Desconto Simples</string>
+    <string name="calcular">Calcular</string>
+    <string name="o_resultados_final_do_calculo_dos_juros_foi_de">O resultados final do calculo dos juros foi de:</string>
+    <string name="retornar">Retornar</string>
+    <string name="capital">Capital:</string>
+    <string name="taxa">Taxa:</string>
+    <string name="tempo">Tempo:</string>
+    <string name="ValorNominal" />
+    <string name="Nominal">Valor Nominal</string>
+    <string name="Composto" />
+    <string name="CalcularComposto">Calcular Composto</string>
+    <string name="CalcularDesconto">Calcular Desconto</string>
+</resources>
